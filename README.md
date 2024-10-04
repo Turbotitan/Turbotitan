@@ -1,8 +1,8 @@
--👋 Hey, I’m Tanaka @Turbotitan
+-👋 Hey, I’m Tanaka @Turbotitan 
 -👀 I’m interested in computers 
--🌱 I’m currently learning software engineering
--💞️ I’m looking to collaborate on all possible positive solutions
--📫 How to reach me is not complex if you really want
+-🌱 I’m currently learning software engineering 
+-💞️ I’m looking to collaborate on all possible positive solutions 
+-📫 How to reach me is not complex if you really want 
 -😄 Pronouns: HE/HIM
 -⚡ Fun fact: VINCULA NULLA꙰
 
